@@ -2,6 +2,17 @@
 IT 도서에 대한 리뷰들
 
 ## 리뷰
+**이게 되네? 클로드 MCP 미친 활용법 27제** ❤️❤️❤
+- chatgpt 대비 클로드의 강점은 외부 애플리케이션을 연결해 가져올 수 있음
+- claude opus4는 수학, 코딩 등에 특화 모델
+- claude sonnet4가 일반적 목적 모델
+- 스미더리(smithery.ai): mcp 마켓 플레이스
+- 펄스 mcp(pulsemcp.com): mcp 인기 순위
+- 비 개발자용 책
+- MCP 개념과 활용법 알려줌
+- AI + MCP 어떻게 활용할지가 중요한 듯
+<br />
+
 **얄코의 TOO MUCH 친절한 깃&깃허브** ❤️❤️❤️
 - reset: 지우기
 - revert: 지우되 기록도 남기기
